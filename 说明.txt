@@ -1,0 +1,18 @@
+nodejs 
+安装
+cnpm install
+cnpm install express --save
+cnpm install mongoose --save
+cnpm install multiparty --save
+
+
+vue
+安装
+cnpm install
+
+cnpm install mint-ui --save
+cnpm install swiper --save
+cnpm install axios --save
+cnpm install vuex --save
+cnpm install node-sass sass-loader --save
+
